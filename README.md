@@ -15,7 +15,7 @@
       </p>
       <!-- Typing SVG alinhado à esquerda com texto verde -->
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Rob%C3%B3tica+Educacional+%26+Tecnologia;Engenharia+Aplicada+%C3%A0+Comunidade;Inova%C3%A7%C3%A3o%2C+Fabrica%C3%A7%C3%A3o+3D+%26+Sustentabilidade;Cultura+Maker+no+M%C3%A9dio+Piracicaba&font=Fira%20Code&center=false&width=480&height=35&color=2EA043&vCenter=true&pause=800&size=17" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com/?lines=Rob%C3%B3tica+Educacional+%26+Tecnologia;Engenharia+Aplicada+%C3%A0+Comunidade;Inova%C3%A7%C3%A3o%2C+Fabrica%C3%A7%C3%A3o+3D+%26+Sustentabilidade;Cultura+Maker+para+Ensino+medio&font=Fira%20Code&center=false&width=480&height=35&color=2EA043&vCenter=true&pause=800&size=17" alt="Typing SVG" />
       </a>
       <br/>
       <!-- Badges Rápidos -->
