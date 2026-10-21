@@ -60,7 +60,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/bitlabufop/BitLab">
+    <a href="https://github.com/bitlabufop?tab=repositories">
       <img src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Reposit%C3%B3rio%20BitLab-238636?style=for-the-badge&logo=repo&logoColor=white" alt="Repositório BitLab"/>
     </a>
   </p>
